@@ -21,6 +21,8 @@ Precisaremos utilizar duas placas que foram efetuadas durante o curso para o fun
 
 Temos como objetivo de projeto, criar um protótipo onde a programação feita nos computadores possa ser utilizada adequadamente, e que a cada tecla pressionada tenha a sua devida ação ao display e também para o motor de corrente contínua, tendo um projeto totalmente funcional efetuado com total êxito. Além disso o grupo espera poder ter maior aprofundamento em todas as etapas do projeto, contando com o protótipo ou a programação pelo software, assim conseguindo as realizar com maior facilidade e ganhando um maior conhecimento sobre a matéria de eletrônica.
 
+Desenvolvimento:
+
 
 
 
