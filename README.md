@@ -29,7 +29,7 @@ Firmware/Líder: João Vitor
 
 Projeto Eletrônico: Kaique Alves
  
-Protótipo: Selival
+Protótipo: Selival Gomes
 
 Documentação: Gustavo Pereira 
 
