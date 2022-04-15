@@ -6,7 +6,7 @@ Para ser efetuado, precisaremos de alguns componentes:
 
 *Motor: Para o motor, será utilizado um [motor DC](https://recursos.techmakers.com.br/MediaCenter/Datasheet%20Micro%20Motor%20DC%2012V%206500RPM%20P-N-AK555-306PL12S6500C.pdf), mas conhecido como motor de corrente contínua, onde a velocidade do motor é controlada através da variação da corrente, diferente de outros modelos.
 
-*Mosfet: O [mosfet](https://flaviobabos.com.br/mosfet/****) é um transistor de efeito de campo de semicondutor de óxido metálico, e será utilizado para a transmissão da tensão para o motor.
+*Mosfet: O [mosfet](https://flaviobabos.com.br/mosfet/) é um transistor de efeito de campo de semicondutor de óxido metálico, e será utilizado para a transmissão da tensão para o motor.
 
 *Teclado: Será utilizado um [teclado 4x4](https://cdn.sparkfun.com/assets/f/f/a/5/0/DS-16038.pdf), bastante utilizado para Arduino, é ligado diretamente a placa, no teclado cada tecla acionará uma função diferente para o motor de acordo com a tecla pressionada.
 
@@ -25,7 +25,9 @@ Desenvolvimento:
 
 O projeto foi separado com base no que cada integrante tivesse mais sabedoria, onde foi selecionado as seguintes funções:
 
-Código: João/Kaique
+Firmware/Líder: João Vitor
+
+Projeto Eletrônico: Kaique Alves
  
 Protótipo: Selival
 
