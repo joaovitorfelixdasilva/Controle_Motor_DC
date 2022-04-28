@@ -2,7 +2,10 @@ Trabalho desenvolvido com intuíto de funcionamento total de um controlador de v
 
 Para ser efetuado precisaremos de alguns componentes:
 
-*Display: utilizaremos um [display 16x2](https://components101.com/displays/16x2-lcd-pinout-datasheet) onde existem 16 colunas e 2 linhas para escrita. Esse modelo apresenta fundo azul, letras brancas e será utlizado para mostrar a função que deverá ser aplicada no motor.
+*Display: utilizaremos um [display 16x2](https://components101.com/displays/16x2-lcd-pinout-datasheet) onde existem 16 colunas e 2 linhas para escrita. Esse modelo 
+apresenta fundo azul, letras brancas e será utlizado para mostrar a função que deverá ser aplicada no motor.
+
+*CI: será utilizado para fazer a ponte h o [chip L298](https://components101.com/ics/l298-pin-configuration-features-datasheet) 
 
 *Motor: para o motor será utilizado um [motor DC](https://recursos.techmakers.com.br/MediaCenter/Datasheet%20Micro%20Motor%20DC%2012V%206500RPM%20P-N-AK555-306PL12S6500C.pdf), mais conhecido como motor de corrente contínua, onde a velocidade do motor é controlada através da variação da corrente, diferente de outros modelos.
 
