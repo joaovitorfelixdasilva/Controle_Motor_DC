@@ -33,7 +33,9 @@ Protótipo: Selival Gomes
 
 Documentação: Gustavo Pereira 
 
-A partir de diversas aulas adquirimos conhecimento e a capacidade de trabalhar com os materiais pré requisitados. Foi possível, mesmo com certa dificuldade, efetuar um código a partir de softwares como o [Proteus](https://www.labsis.com.br/index.php/produtos/proteus), [MPLABX](https://www.microchip.com/en-us/tools-resources/develop/mplab-x-ide) entre outros, onde todos os aparelhos funcionassem mutuamente dentro desses simuladores. A partir de uma aula, um dos integrantes teve tempo para realizar a montagem do display, sendo possível efetuar as conexões com as placas e finalmente ligá-lo com funcionalidade total de uma forma física.  
+A partir de diversas aulas adquirimos conhecimento e a capacidade de trabalhar com os materiais pré requisitados. Foi possível, mesmo com certa dificuldade, efetuar um código a partir de softwares como o [Proteus](https://www.labsis.com.br/index.php/produtos/proteus), [MPLABX](https://www.microchip.com/en-us/tools-resources/develop/mplab-x-ide) entre outros, onde todos os aparelhos funcionassem mutuamente dentro desses simuladores. A partir de uma aula, um dos integrantes teve tempo para realizar a montagem do display, sendo possível efetuar as conexões com as placas e finalmente ligá-lo com funcionalidade de uma forma física.  
+
+Para realizar a capacidade de inverter o sentido de giro foi utilizado uma [Ponte H](https://mundoprojetado.com.br/ponte-h-o-que-e-e-como-funciona/) um circuito que serve para variar o sentido da corrente em uma determinada carga, bem como controlar sua potência.
 
 
 
