@@ -43,6 +43,10 @@ Para realizar a capacidade de inverter o sentido de giro foi utilizado uma [Pont
 
 
 
+                                                        
+
+
+
 
 
 
