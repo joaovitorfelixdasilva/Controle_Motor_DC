@@ -22,6 +22,8 @@ Precisaremos utilizar duas placas que foram efetuadas durante o curso para o fun
 
 *Saída PWM: o [PWM](https://www.citisystems.com.br/pwm/#:~:text=PWM%20%C3%A9%20a%20t%C3%A9cnica%20usada,a%20gera%C3%A7%C3%A3o%20de%20sinais%20PWM.) é uma técnica utilizada para gerar sinais analógicos de um dispositivo digital (Microcontrolador no nosso caso). Ele é tão eficiente que hoje em dia quase todos os microcontroladores modernos possuem hardware dedicado para a geração de sinais PWM.
 
+*Ponte Retificadora: A [placa retificadora](https://www.mundodaeletrica.com.br/o-que-e-uma-ponte-retificadora/) faz a transformação da corrente elétrica alternada gerada pelo estator em corrente contínua, que irá alimentar a bateria e todo sistema elétrico do veículo.
+
 Temos como objetivo de projeto criar um protótipo onde a programação feita nos computadores possa ser utilizada adequadamente, onde cada tecla pressionada tenha a sua devida ação ao display e também para o motor de corrente contínua, tendo um projeto totalmente funcional efetuado com total êxito. Além disso, o grupo espera poder ter maior aprofundamento em todas as etapas do projeto, contando com o protótipo ou a programação pelo software, conseguindo assim realizar com maior facilidade e ganhando maior conhecimento sobre a matéria de eletrônica.
 
 Desenvolvimento:
