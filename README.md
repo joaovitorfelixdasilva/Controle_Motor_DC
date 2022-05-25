@@ -26,7 +26,7 @@ Precisaremos utilizar duas placas que foram efetuadas durante o curso para o fun
 
 *Capacitor de filtro: O [capacitor](https://pt.lambdageeks.com/what-is-filter-capacitor-bypass-filter-capacitor/#fc) Um capacitor de filtro é um filtro passivo que consiste no elemento passivo. Os efeitos do capacitor de qualquer sinal dependem da frequência. Esta característica do capacitor é usada para projetar filtros que podem filtrar uma faixa de frequência específica de sinais, conforme necessário.
 
-
+Resistor:O [Resistor](https://mundoeducacao.uol.com.br/fisica/resistores.htm) 10k ohms 1/4W é um componente eletrônico capaz de limitar a corrente elétrica em um determinado fluxo de energia.
 
 Temos como objetivo de projeto criar um protótipo onde a programação feita nos computadores possa ser utilizada adequadamente, onde cada tecla pressionada tenha a sua devida ação ao display e também para o motor de corrente contínua, tendo um projeto totalmente funcional efetuado com total êxito. Além disso, o grupo espera poder ter maior aprofundamento em todas as etapas do projeto, contando com o protótipo ou a programação pelo software, conseguindo assim realizar com maior facilidade e ganhando maior conhecimento sobre a matéria de eletrônica.
 
@@ -47,20 +47,21 @@ A partir de diversas aulas adquirimos conhecimento e a capacidade de trabalhar c
 Para realizar a capacidade de inverter o sentido de giro foi utilizado uma [Ponte H](https://mundoprojetado.com.br/ponte-h-o-que-e-e-como-funciona/) um circuito que serve para variar o sentido da corrente em uma determinada carga, bem como controlar sua potência.
 
 
-
-
-                                                        
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+|                                 |                                |                                   |                                 |                           |
+|                                 |                                |                                   |                                 |                           |
+|---------------------------------|--------------------------------|-----------------------------------|---------------------------------|---------------------------|
+|                                 |                                |                                   |                                 |                           |
+|                                 |                                |                                   |                                 |                           |
+|                                 |                                |                                   |                                 |                           |
+|                                 |                                |                                   |                                 |                           |
+|                                 |                                |                                   |                                 |                           |
+|                                 |                                |                                   |                                 |                           | |                                 |                                |                                   |                                 |                           |
+|                                 |                                |                                   |                                 |                           |
+|                                 |                                |                                   |                                 |                           |
+|                                 |                                |                                   |                                 |                           |
+|                                 |                                |                                   |                                 |                           |
+|                                 |                                |                                   |                                 |                           |
+|                                 |                                |                                   |                                 |                           |
+|                                 |                                |                                   |                                 |                           |
+|                                 |                                |                                   |                                 |                           |
