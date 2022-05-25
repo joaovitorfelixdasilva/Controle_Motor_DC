@@ -24,6 +24,10 @@ Precisaremos utilizar duas placas que foram efetuadas durante o curso para o fun
 
 *Ponte Retificadora: A [placa retificadora](https://www.mundodaeletrica.com.br/o-que-e-uma-ponte-retificadora/) faz a transformação da corrente elétrica alternada gerada pelo estator em corrente contínua, que irá alimentar a bateria e todo sistema elétrico do veículo.
 
+*Capacitor de filtro: O [capacitor](https://pt.lambdageeks.com/what-is-filter-capacitor-bypass-filter-capacitor/#fc) Um capacitor de filtro é um filtro passivo que consiste no elemento passivo. Os efeitos do capacitor de qualquer sinal dependem da frequência. Esta característica do capacitor é usada para projetar filtros que podem filtrar uma faixa de frequência específica de sinais, conforme necessário.
+
+
+
 Temos como objetivo de projeto criar um protótipo onde a programação feita nos computadores possa ser utilizada adequadamente, onde cada tecla pressionada tenha a sua devida ação ao display e também para o motor de corrente contínua, tendo um projeto totalmente funcional efetuado com total êxito. Além disso, o grupo espera poder ter maior aprofundamento em todas as etapas do projeto, contando com o protótipo ou a programação pelo software, conseguindo assim realizar com maior facilidade e ganhando maior conhecimento sobre a matéria de eletrônica.
 
 Desenvolvimento:
