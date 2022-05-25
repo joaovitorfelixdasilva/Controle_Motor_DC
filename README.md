@@ -47,10 +47,9 @@ A partir de diversas aulas adquirimos conhecimento e a capacidade de trabalhar c
 Para realizar a capacidade de inverter o sentido de giro foi utilizado uma [Ponte H](https://mundoprojetado.com.br/ponte-h-o-que-e-e-como-funciona/) um circuito que serve para variar o sentido da corrente em uma determinada carga, bem como controlar sua potência.
 
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 |                                 |                                |                                   |                                 |                           |
 |                                 |                                |                                   |                                 |                           |
-|---------------------------------|--------------------------------|-----------------------------------|---------------------------------|---------------------------|
+| ------------------------------- | ------------------------------ | --------------------------------- | ------------------------------- | ------------------------- |
 |                                 |                                |                                   |                                 |                           |
 |                                 |                                |                                   |                                 |                           |
 |                                 |                                |                                   |                                 |                           |
